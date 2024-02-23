@@ -1,0 +1,12 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj[2] = fx\cloth.fx
+Obj[3] = fx\cloth.fx
+Obj[4] = fx\cloth.fx
+Obj[5] = fx\cloth.fx
+Obj[11] = fx\cloth.fx
+Obj[12] = fx\cloth.fx
+Obj[13] = fx\hair.fx
+
